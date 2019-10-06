@@ -1,3 +1,8 @@
+## **Installing Docker on Windows**
+1. Install Docker Toolbox
+
+2. Launch the Docker Quickstart Terminal 
+
 ## **start a container**
 docker start 
 ## **stop a running container** 
